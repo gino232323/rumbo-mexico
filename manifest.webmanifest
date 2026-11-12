@@ -1,0 +1,13 @@
+{
+  "name": "Rumbo — Escapadas que se sienten tuyas",
+  "short_name": "Rumbo",
+  "description": "Guía de escapadas, estancias y lugares para descubrir en México.",
+  "lang": "es-MX",
+  "display": "standalone",
+  "background_color": "#fffaf6",
+  "theme_color": "#fffaf6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
